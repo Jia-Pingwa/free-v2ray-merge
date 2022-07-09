@@ -27,6 +27,7 @@ jobs:
         python-version: 3.9
     - name: Update paper list
       run: |
+        pip install requests
         python main.py
     - name: commit
       run: |
