@@ -9,17 +9,17 @@ for i in webside:
     # 对r进行base64解码
     # print(r.text)
     temp = base64.b64decode(r.text)
-    with open('r.txt','wb') as f:
+    with open('output.txt','wb') as f:
         f.write(temp)
-#读取r.txt中的内容
-with open('r.txt','r') as f:
+#读取output.txt中的内容
+with open('output.txt','r') as f:
     txt = f.read()
-# 将r.txt中的内容按行分割，生成一个列表
+# 将output.txt中的内容按行分割，生成一个列表
 txt = txt.splitlines()
 # 对txt列表进行去重
 txt = list(set(txt))
 # 将txt列表写入到文件中
-with open('r.txt','w') as f:
+with open('output.txt','w') as f:
     for i in txt:
         f.write(i+'\n')
 
