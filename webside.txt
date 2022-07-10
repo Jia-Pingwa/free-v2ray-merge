@@ -1,2 +1,3 @@
 https://raw.fastgit.org/freefq/free/master/v2
 https://cdn.jsdelivr.net/gh/arlenWKX/Free-Node-Merge@main/Eternity
+https://raw.fastgit.org/v2ray-links/v2ray-free/master/v2ray
