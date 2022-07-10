@@ -32,7 +32,7 @@ jobs:
     - name: commit
       run: |
         git config --global user.email lcfqc@proton.me
-        git config --global user.name lcfqc
+        git config --global user.name github_action
         git add .
         git commit -m "update" -a
     - name: Push changes
