@@ -1,4 +1,4 @@
-https://raw.fastgit.org/freefq/free/master/v2
-https://cdn.jsdelivr.net/gh/arlenWKX/Free-Node-Merge@main/Eternity
-https://raw.fastgit.org/v2ray-links/v2ray-free/master/v2ray
-https://raw.fastgit.org/mianfeifq/share/main/data2022071.txt
+https://raw.githubusercontent.com/freefq/free/master/v2
+https://raw.githubusercontent.com/arlenWKX/Free-Node-Merge/master/Eternity
+https://raw.githubusercontent.com/v2ray-links/v2ray-free/master/v2ray
+https://raw.githubusercontent.com/Jia-Pingwa/mianfeifq-share/main/share.txt
