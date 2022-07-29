@@ -1,4 +1,3 @@
 https://raw.githubusercontent.com/freefq/free/master/v2
-https://raw.githubusercontent.com/arlenWKX/Free-Node-Merge/master/Eternity
 https://raw.githubusercontent.com/v2ray-links/v2ray-free/master/v2ray
 https://raw.githubusercontent.com/Jia-Pingwa/mianfeifq-share/main/share.txt
