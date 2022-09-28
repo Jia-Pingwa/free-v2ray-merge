@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity
 https://github.com/webdao/v2ray/blob/master/nodes.txt
 https://github.com/LITTLESITE/BPXD/blob/main/sub
 https://github.com/Pawdroid/Free-servers/blob/main/sub
+https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge.txt
