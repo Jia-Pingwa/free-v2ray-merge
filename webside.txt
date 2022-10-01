@@ -2,3 +2,7 @@ https://raw.githubusercontent.com/freefq/free/master/v2
 https://raw.githubusercontent.com/v2ray-links/v2ray-free/master/v2ray
 https://raw.githubusercontent.com/Jia-Pingwa/mianfeifq-share/main/share.txt
 https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity
+https://github.com/webdao/v2ray/blob/master/nodes.txt
+https://github.com/LITTLESITE/BPXD/blob/main/sub
+https://github.com/Pawdroid/Free-servers/blob/main/sub
+https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge.txt
